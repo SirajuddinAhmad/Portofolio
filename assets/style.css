@@ -328,7 +328,7 @@ iframe{
     .kontak-countainer, .countainer,
     .header, nav, .skill-countainer
     {
-        width: 100%;
+        width: 600px;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
