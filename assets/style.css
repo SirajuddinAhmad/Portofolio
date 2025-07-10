@@ -23,10 +23,10 @@ ul{
     align-items: center;
     justify-content: center;
     font-size: 9px;
-    margin-right: 7px;
 }
 li{
     list-style: none;
+    margin-right: 10px;
     
 }
 a{
