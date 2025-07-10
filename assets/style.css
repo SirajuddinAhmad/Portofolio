@@ -56,7 +56,7 @@ a{
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 4rem;
-    margin: auto;
+    
     grid-template-columns: 1fr 1fr;
 
     background-color: white;
@@ -121,7 +121,6 @@ a{
 .myskill{
    width: 100%;
    height: 100%;
-   padding-right: 5px;
   
 }
 svg{
@@ -267,6 +266,7 @@ iframe{
     .myskill{
         width: 100%;
         height: 100%;
+        padding-right: 5px;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
