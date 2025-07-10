@@ -14,7 +14,7 @@ body{
 }
 nav{
     top: 0;
-    width: 100%;
+    width: 600px;
     background-color: rgb(21, 17, 30);
     position: fixed;
 }
@@ -296,6 +296,9 @@ iframe{
         width: 100%;
     }
     .input-from{
+        width: 100%;
+    }
+    nav{
         width: 100%;
     }
 }
