@@ -56,7 +56,7 @@ a{
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 4rem;
-    
+    transform: translateY(-50% -50%);
     grid-template-columns: 1fr 1fr;
 
     background-color: white;
