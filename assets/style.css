@@ -313,7 +313,7 @@ iframe{
         width: 100%;
     }
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:480px) {
     .myskill{
         width: 100%;
         height: 100%;
@@ -328,7 +328,7 @@ iframe{
     .kontak-countainer, .countainer,
     .header, nav, .skill-countainer
     {
-        width: 600px;
+        width: 480px;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
