@@ -96,7 +96,7 @@ a{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    
+    margin-left:10px;
 }
 .about{
    width: 600px;
