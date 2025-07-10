@@ -326,9 +326,9 @@ iframe{
     }
     .project-countainer, 
     .kontak-countainer, .countainer,
-    .header
+    .header, nav, .skill-countainer
     {
-        width: 100%;
+        width: 90%;
     }
     
 }
