@@ -45,9 +45,9 @@ a{
     right: 0;
     top: 0;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    grid-template-columns: 1fr 1fr;
 }
 .skill-countainer{
     width: 100%;
