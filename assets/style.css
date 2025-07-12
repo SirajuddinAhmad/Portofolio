@@ -223,6 +223,10 @@ input{
  border-bottom-left-radius: 5px;
  border-top-right-radius: 5px;
 }
+input:focus{
+    border: 1px solid rgb(21, 17, 30);
+    transition: all 0.5s;
+}
 .alamat{
     height: 50px;
 }
