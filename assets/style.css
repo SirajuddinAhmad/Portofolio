@@ -326,13 +326,17 @@ iframe{
     }
     .project-countainer, 
     .kontak-countainer, .countainer,
-    .header, nav, .skill-countainer
+     .skill-countainer
     {
         width: 480px;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
+    }
+    .header{
+        height: 60px;
+        font-size: 15pt;
     }
     
 }
